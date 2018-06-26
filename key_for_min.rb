@@ -14,5 +14,5 @@ def key_for_min_value(name_hash)
   return nil
 end
 
-name_hash = {"apple" => -45, "banana" => -44.5, "carrot" => -44.9}
-puts(key_for_min_value(name_hash))
+#name_hash = {"apple" => -45, "banana" => -44.5, "carrot" => -44.9}
+#puts(key_for_min_value(name_hash))
