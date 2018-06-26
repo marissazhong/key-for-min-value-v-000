@@ -10,9 +10,8 @@ def key_for_min_value(name_hash)
       end
     end
     return min_hash[0]
-  else
-    return nil
   end
+  return nil
 end
 
 name_hash = {:blake => 500, :ashley => 2, :adam => 1}
